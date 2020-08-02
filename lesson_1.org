@@ -1,0 +1,86 @@
+
+第1課 寫作, 簡潔傳達你的見解
+
+* 引言
+- <<微寫作>> 現在我們寫作不是為了接受某種評鑑, 而是為了溝通, 娛樂, 遊說,
+  或是為了贏得他人的注意.
+
+
+* 標題: 從唯讀文化到讀寫文化
+結合電腦, 手機, 網路科技, 2007年數位科技大爆發前後.
+
+
+* 標題: 注意力經濟的兩難
+寫作者被淹沒, 讀者注意力無法聚焦.
+但網路經濟也帶來機會.
+成為主動積極, 運用深度思考的寫作者.
+
+
+* 標題: 以精準寫作創造影響力
+** 副標題: 精準寫作是什麼?
+對讀者有精準的溝通效果.
+
+** 副標題: 長文寫作對抗淺薄思考
+學好寫作, 就能學好思考.
+
+* 標題: 文案寫作與簡報思考的盲點
+** 寫文案前的打磨功夫
+看似精簡的文案, 背後卻需要強大的寫作與思考基礎.
+
+** 簡報思考容易片段化, 聽者難以整體思考
+簡報不同於寫作, 是每張投影片傳達一個訊息.
+非整體的結構思考, 讀者會抓不到報告的整體脈絡, 無法有效回溯思考.
+
+** 亞馬遜推崇的寫作思考
+只能用最少一頁或最多六頁的A4紙呈現內容.
+
+* 標題: 寫作就像蓋房子, 不是玩裝潢
+** 別再 "作文" 了
+** 訓練邏輯, 而非只求文字美感
+** 訓練獨立思考
+** 練習觀察與感受
+
+
+* 回顧與練習
+** 練習1 精準介紹自己
+請你想一想, 能否用三個特色說明自己的專業, 讓普通人快速了解你的專業,
+主要是解決什麼問題?
+
+讀者是普通人
+
+*** Top-down
+拿晶片換現金
+客戶怎麼買單? 滿足客戶需求.
+客戶的需求是什麼? 公司 Sales 和商務要找出符合雙方利益的生意.
+估計和安排 workload 的能力
+
+*** Bottom-up
+1. 過去: embedded software engineer in IC design house 
+2. 現在: application engineer in IC design house
+      Working as a bridge between customers and engineering teams.
+      Application Engineers use customer input and sales information to design or re-design,
+      develop, test and implement complex software programs and applications.
+      介於客戶與其他 module 工程師之間的中間人.
+      要了解 module 運作方式, 又不過度涉入細節.
+
+*** 過去: embedded software engineer in IC design house
+- 做得對 -> 做得好 -> 做得快
+1. 驗證 IP modules, 寫 module driver code
+2. 用 Python 寫工具程式
+3. CA 驗證, 已經跨入 application engineer, 對象不是客戶, 而是 CA 廠商.
+      在 IC design house 工作的程序員, 產品是 set top box.
+      工作內容是取得晶片的 condition access 認證, 向 CA 認證公司證明自家 chip 符合要求的安全功能,
+      取得安全認證.
+      了解一些特定 modules 的運作, 整合多個 modules, 打包 demo 測試程式.
+
+*** 從 open source software 取經
+build from source, trace code,
+neovim, emacs source code
+
+
+** 練習2 了解自己學習寫作的目的
+請想想, 你希望透過寫作達到什麼目標? 是傳達專業影響力, 銷售自己的產品或服務,
+還是自我探索, 或是留下日常生活的紀錄? 這樣才能有明確的需求與問題意識,
+幫助你聚焦每堂課的課後練習.
+
+自我探索, 提升學習力.
